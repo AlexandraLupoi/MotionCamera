@@ -25,7 +25,3 @@
   Aceasta se va roti pana cand ajunge in dreptul senzorului respectiv.
   
 ```
-### Demonstratie
-```
-  https://www.youtube.com/watch?v=jiDUUJ1IfPo&feature=youtu.be
-```
